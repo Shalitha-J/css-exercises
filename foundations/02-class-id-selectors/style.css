@@ -1,0 +1,31 @@
+.text-style{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+
+.number{
+    background-color: rgb(245, 177, 177);
+    font-size: 30px;
+    
+    
+}
+
+#number-2{
+    color: blue;
+    font-size: 50px;
+}
+
+.cooler{
+    background-color: rgb(245, 177, 177);
+    font-size: xx-large;
+}
+#id4{
+    font-size: 34px;
+    font-weight: bold;
+    background-color: rgb(142, 251, 125);
+}
+
+.five{
+    font-size: 20px;
+}
