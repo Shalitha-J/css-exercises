@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+.head{
+    background-color: red;
+    height: 50px;
+    text-align: center;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    
+    
+}
+h1{
+    padding-top: 5px ;
+}
